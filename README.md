@@ -3,7 +3,7 @@
 week-3-gkorompis created by GitHub Classroom
 
 ## Application Overview
-Official application for songwriter and music enthusiats, where users can share their work and explore other artist's work. The web app is hosted by netlify on [Personal Music Page.](https://64a44a91e0c54104801be5b6--silly-kheer-a7be08.netlify.app/index.html). This application is designed to be fully responsive and supports multiple dimensions, including desktop and mobile phones. It is built using responsive design techniques and follows best practices to ensure an optimal user experience across various devices.
+Official application for songwriter and music enthusiats, where users can share their work and explore other artist's work. The web app is hosted by netlify on [STRUMS (official music app).](https://64a44a91e0c54104801be5b6--silly-kheer-a7be08.netlify.app/index.html). This application is designed to be fully responsive and supports multiple dimensions, including desktop and mobile phones. It is built using responsive design techniques and follows best practices to ensure an optimal user experience across various devices.
 
 ## Features
 
@@ -53,19 +53,19 @@ open index.html
 you can open the index.html file in your preferred web browser and then browse the music page and interact with the different components to explore songs, and albums.
 
 ## Screenshots
-### Homepage Desktop View
-<img width="904" alt="homepage" src="https://github.com/RevoU-FSSE-2/week-2-gkorompis/assets/52250424/c698f996-322b-46f6-b75d-25cf09e4fd86">
+### Landing Page Desktop View (lightmode)
+<img width="1423" alt="light-mode-home" src="https://github.com/RevoU-FSSE-2/week-3-gkorompis/assets/52250424/b703a41e-9d1e-4037-94f3-4ebe7c9b0d56">
 
-### Homepage Mobile View
-<img width="500" alt="homepage mobile" src="https://github.com/RevoU-FSSE-2/week-2-gkorompis/assets/52250424/8471de66-f00e-4f84-b78b-ab5c0026dc07">
+### Landing Page Desktop View (darkmode)
+<img width="1422" alt="dark-mode-home" src="https://github.com/RevoU-FSSE-2/week-3-gkorompis/assets/52250424/334c610f-02e5-4bda-bb04-b7d3a421112d">
 
-### Homepage Mobile Burger Navbar
-<img width="499" alt="mobile burger icon" src="https://github.com/RevoU-FSSE-2/week-2-gkorompis/assets/52250424/80f09f2c-ed26-4fc4-b645-4b4ff9cc28ef">
+### Form Page Desktop View (lightmode)
+<img width="1421" alt="light-mode-form" src="https://github.com/RevoU-FSSE-2/week-3-gkorompis/assets/52250424/df4f4898-ed3d-469d-849d-bb7d8a5f7fd8">
 
-### Store Page Desktop View
-<img width="921" alt="store page desktop view" src="https://github.com/RevoU-FSSE-2/week-2-gkorompis/assets/52250424/1549fbda-04ca-4084-ac56-d3fda3681e66">
+### Form Page Desktop View (darkmode)
+<img width="1422" alt="dark-mode-home" src="https://github.com/RevoU-FSSE-2/week-3-gkorompis/assets/52250424/334c610f-02e5-4bda-bb04-b7d3a421112d">
 
 ## Contact 
 If you have any questions or want to get in touch, you can reach me at grkorompis@gmail.com
 
-Thank you for visiting my personal music page! I hope you enjoy exploring my music collection. Feel free to provide feedback or suggestions. Happy listening!
+Thank you for visiting my project. I hope you enjoy exploring. Feel free to provide feedback or suggestions.
