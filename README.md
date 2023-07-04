@@ -53,6 +53,10 @@ open index.html
 you can open the index.html file in your preferred web browser and then browse the music page and interact with the different components to explore songs, and albums.
 
 ## Screenshots
+
+### Good SEO and Accessibility
+<img width="407" alt="good seo" src="https://github.com/RevoU-FSSE-2/week-3-gkorompis/assets/52250424/967d0a78-2bce-4580-9c7b-e2c18cfa6cbf">
+
 ### Landing Page Desktop View (lightmode)
 <img width="1423" alt="light-mode-home" src="https://github.com/RevoU-FSSE-2/week-3-gkorompis/assets/52250424/b703a41e-9d1e-4037-94f3-4ebe7c9b0d56">
 
