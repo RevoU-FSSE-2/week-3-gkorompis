@@ -35,7 +35,7 @@ This project includes features such as:
 5. assymetrical grid
 6. at least one advanced form element
 7. smooth animations and transitions
-8. good SEO and Accessbility (score = 90)
+8. good SEO and Accessbility (score = 100)
 9. create night mode using web storage api
 
 ## Setup and Usage
